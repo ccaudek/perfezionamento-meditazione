@@ -21,12 +21,6 @@ format:
     linestretch: 1.4
 ---
 
-::: {.callout-note title="Note per il docente"}
-Queste conclusioni non sono un riassunto delle sezioni precedenti — chi ha seguito il corso sa già ciò che è stato detto. Sono un tentativo di portare il discorso a un livello diverso: non *cosa* è stato detto, ma *perché* ha importanza e dove questo può condurre. 
-
-Una possibile apertura: *"Permettetemi di concludere con una domanda che vi lascio non come esercizio ma come compagna: cosa, di ciò che abbiamo esplorato oggi, cambia qualcosa per voi — anche solo un millimetro?"*
-:::
-
 # Il punto di arrivo e il punto di partenza
 
 ## Ciò che non è stato detto
