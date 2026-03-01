@@ -1,0 +1,76 @@
+---
+title: "Esercizi esperienziali"
+subtitle: "Parte 5 · Meditazione nel Buddhismo Mahāyāna — Corso di Perfezionamento"
+author: "Corrado Caudek · Università di Firenze, NEUROFARBA"
+date: today
+lang: it
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    theme: cosmo
+    fontsize: 1.1em
+    linestretch: 1.6
+    smooth-scroll: true
+  pdf:
+    toc: true
+    number-sections: true
+    geometry: margin=2.5cm
+    fontsize: 11pt
+    linestretch: 1.4
+---
+
+::: {.callout-note title="Esercizi Esperienziali (Parte 5)"}
+**Avvertenza prima degli esercizi:**
+
+- Tutte le pratiche sono opzionali: si può osservare senza partecipare.
+- Se emergono contenuti emotivamente intensi, è normale e va rispettato; la pratica può essere messa in pausa in qualsiasi momento.
+- Lo scopo non è produrre un'esperienza specifica, ma osservare come la propria mente risponde.
+- Il valore non è nella perfezione dell'esecuzione, ma nella qualità dell'attenzione portata.
+:::
+
+
+# Esercizio 1 · Tonglen breve (12 minuti)
+
+## Istruzioni per il facilitatore:
+
+- [2 min] Portare l'attenzione al respiro. Lasciar sedimentare la mente. Non forzare nulla.
+- [2 min] Pensare a qualcuno che in questo momento sta soffrendo — un paziente, un familiare, chiunque venga in mente naturalmente. Sentire la sua sofferenza senza analizzarla.
+- [3 min] Con l'inspirazione: immaginare di accogliere quella sofferenza. Non come atto eroico, ma semplicemente come presenza. Se appare una resistenza, notarla senza giudicarla.
+- [3 min] Con l'espirazione: immaginare di irradiare verso quella persona qualcosa di caldo — pace, sollievo, spazio. Non è necessario credere che questo abbia effetti reali: è un allenamento mentale.
+- [2 min] Espandere lentamente: tutte le persone che stanno soffrendo in questo momento, in questo edificio, in questa città. Non è necessario visualizzarle singolarmente — è sufficiente l'intenzione.
+
+### Debriefing (5 min):
+
+- "Cosa avete notato? Ci sono state resistenze? Dove le avete sentite?"
+- "Qualcuno ha sentito la differenza tra inspirare la sofferenza e espirarla?"
+- "Come si confronta questa pratica con ciò che fate normalmente nella relazione terapeutica?"
+
+# Esercizio 2 · Riflessione su uno slogan Lojong (10 minuti)
+
+## Presentare il seguente slogan al gruppo:
+
+> “Considera tutti i fenomeni come sogni.”
+
+Istruzioni: Pensare a una situazione professionale difficile vissuta di recente — un paziente difficile, un momento di stallo terapeutico, un conflitto con un collega. Tenerla in mente per un minuto. Poi chiedere:
+
+- "Se questa situazione fosse 'come un sogno' — non irreale, ma meno solida di quanto sembra — cambierebbe qualcosa nel modo in cui la affrontate?"
+-	"Non stiamo dicendo che i problemi non siano reali. Stiamo chiedendo: quanto della nostra sofferenza deriva dalla solidità che attribuiamo ai problemi?"
+
+### Discussione in coppia (3 min) → plenary (2 min).
+
+# Esercizio 3 · Mettā per il paziente difficile (8 minuti)
+
+La meditazione mettā (gentilezza amorevole) è ben nota nel contesto clinico. Proponiamo qui una versione contestualizzata nel framework Mahāyāna:
+
+-	[2 min] Pensare a un paziente con cui avete difficoltà — resistenza, antipatia, frustrazione. Non al peggiore, ma a uno che vi crea disagio.
+-	[2 min] Riconoscere: anche questa persona vuole essere felice. Anche questa persona soffre. Anche questa persona è il prodotto di cause e condizioni che non ha scelto.
+-	[2 min] Formulare in silenzio: 'Che tu possa essere libero dalla sofferenza. Che tu possa trovare pace.'
+-	[2 min] Notare: cosa è cambiato nella percezione di questa persona, anche solo leggermente?
+
+## Domanda per il debriefing:
+
+"La difficoltà che provate con questo paziente riguarda il paziente, o riguarda la vostra relazione con quella difficoltà?" (Questa è, in sostanza, la domanda che la pratica buddhista pone alla nozione di sé come entità separata.)
+
+

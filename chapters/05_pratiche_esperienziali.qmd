@@ -1,5 +1,5 @@
 ---
-title: "Esercizi esperienziali"
+title: "La meditazione del respiro nel Buddhismo delle origini"
 subtitle: "Parte 5 · Meditazione nel Buddhismo Mahāyāna — Corso di Perfezionamento"
 author: "Corrado Caudek · Università di Firenze, NEUROFARBA"
 date: today
@@ -21,56 +21,644 @@ format:
     linestretch: 1.4
 ---
 
-::: {.callout-note title="Esercizi Esperienziali (Parte 5)"}
-**Avvertenza prima degli esercizi:**
-
-- Tutte le pratiche sono opzionali: si può osservare senza partecipare.
-- Se emergono contenuti emotivamente intensi, è normale e va rispettato; la pratica può essere messa in pausa in qualsiasi momento.
-- Lo scopo non è produrre un'esperienza specifica, ma osservare come la propria mente risponde.
-- Il valore non è nella perfezione dell'esecuzione, ma nella qualità dell'attenzione portata.
-:::
+## Introduzione
 
 
-# Esercizio 1 · Tonglen breve (12 minuti)
 
-## Istruzioni per il facilitatore:
+Nel cosiddetto *Ānāpānasati-sutta* (MN 118), testo appartenente al *Majjhima Nikāya* ma attestato anche in paralleli del *Saṃyukta-āgama*, la pratica è strutturata in modo tale da realizzare progressivamente i quattro fondamenti della consapevolezza (*smṛtyupasthāna*), i sette fattori dell’illuminazione (*bodhyaṅga*) e, infine, la perfetta conoscenza e la liberazione (*vimukti*). Non si tratta dunque di un elemento isolato del sentiero, bensì di una sua espressione concentrata, quasi microcosmica: nel respiro, e nella sua osservazione attenta, è contenuta l’intera architettura dell’insegnamento sulla cessazione della sofferenza (*duḥkha*).
 
-- [2 min] Portare l'attenzione al respiro. Lasciar sedimentare la mente. Non forzare nulla.
-- [2 min] Pensare a qualcuno che in questo momento sta soffrendo — un paziente, un familiare, chiunque venga in mente naturalmente. Sentire la sua sofferenza senza analizzarla.
-- [3 min] Con l'inspirazione: immaginare di accogliere quella sofferenza. Non come atto eroico, ma semplicemente come presenza. Se appare una resistenza, notarla senza giudicarla.
-- [3 min] Con l'espirazione: immaginare di irradiare verso quella persona qualcosa di caldo — pace, sollievo, spazio. Non è necessario credere che questo abbia effetti reali: è un allenamento mentale.
-- [2 min] Espandere lentamente: tutte le persone che stanno soffrendo in questo momento, in questo edificio, in questa città. Non è necessario visualizzarle singolarmente — è sufficiente l'intenzione.
+Il presente capitolo, ispirato agli studi comparativi di Bhikkhu Anālayo, si propone di ricostruire sistematicamente la concezione originaria dell’*ānāpānasmṛti* [la pratica della piena consapevolezza del respiro; @Analayo2003; @Analayo2013]. L’obiettivo non è normativo — non si tratta di prescrivere “il modo corretto” di meditare — ma storico-filologico: comprendere come questa pratica fosse intesa e trasmessa nel Buddhismo antico.
 
-### Debriefing (5 min):
+L’indagine di Bhikkhu Anālayo si sviluppa lungo quattro direttrici:
 
-- "Cosa avete notato? Ci sono state resistenze? Dove le avete sentite?"
-- "Qualcuno ha sentito la differenza tra inspirare la sofferenza e espirarla?"
-- "Come si confronta questa pratica con ciò che fate normalmente nella relazione terapeutica?"
+1. **analisi testuale** dei sedici esercizi dell’*Ānāpānasati-sutta* ("Discorso sulla piena consapevolezza del respiro"), in dialogo con il *Smṛtyupasthāna-sūtra* ("Discorso sui fondamenti della consapevolezza"; MN 10);
+2. **metodo comparativo**, attraverso il confronto con i paralleli degli Āgama cinesi e delle tradizioni mūlasarvāstivādin;
+3. **inquadramento dottrinale**, inserendo la pratica nel contesto dell’Āryāṣṭāṅgamārga (Nobile Ottuplice Sentiero) e delle *catvāri āryasatyāni* (Quattro Nobili Verità);
+4. **riflessione critica** sulle differenze teleologiche tra la pratica antica e la mindfulness contemporanea.
 
-# Esercizio 2 · Riflessione su uno slogan Lojong (10 minuti)
+La domanda che orienta questa indagine di Analayo non è: «come si medita correttamente?», bensì: «come veniva compresa e praticata l’ānāpānasmṛti nel Buddhismo delle origini?» [@Analayo2003; @Analayo2013]. In questo senso, il suo lavoro si configura come uno studio storico-critico, ma anche come un'occasione di riflessione sul significato più profondo della pratica nel contesto contemporaneo.
 
-## Presentare il seguente slogan al gruppo:
+## Analisi testuale dell’*Ānāpānasmṛti-sūtra*
 
-> “Considera tutti i fenomeni come sogni.”
+### Il contesto narrativo
 
-Istruzioni: Pensare a una situazione professionale difficile vissuta di recente — un paziente difficile, un momento di stallo terapeutico, un conflitto con un collega. Tenerla in mente per un minuto. Poi chiedere:
+L’*Ānāpānasmṛti-sūtra*, il «Discorso sulla piena consapevolezza del respiro», corrisponde al 118° testo della raccolta dei discorsi di media lunghezza trasmessa in pāli come *Majjhima Nikāya* (in riferimento comparativo: *Madhyama-āgama*). La redazione pāli che lo conserva è l’esito di una lunga trasmissione orale, culminata nella messa per iscritto in Sri Lanka intorno al I secolo a.C. Tuttavia, come sottolinea Anālayo, la tradizione testuale dell’*ānāpānasmṛti* non è confinata alla linea theravāda: esistono paralleli in altre correnti del Buddhismo antico, tra cui la versione in cinese nello *Saṃyukta-āgama* (T II 206a), riconducibile alla scuola Mūlasarvāstivāda, oltre a testimonianze affini nei Vinaya delle scuole Mahāsāṅghika, Mūlasarvāstivāda e Sarvāstivāda.
 
-- "Se questa situazione fosse 'come un sogno' — non irreale, ma meno solida di quanto sembra — cambierebbe qualcosa nel modo in cui la affrontate?"
--	"Non stiamo dicendo che i problemi non siano reali. Stiamo chiedendo: quanto della nostra sofferenza deriva dalla solidità che attribuiamo ai problemi?"
+Il confronto tra tali testimonianze, appartenenti a differenti linee di trasmissione, consente di risalire a uno strato dell’insegnamento plausibilmente anteriore alle successive differenziazioni scolastiche. È precisamente questa prospettiva comparativa — centrale nel metodo di Anālayo — a offrire uno strumento particolarmente efficace per avvicinarsi alla configurazione più antica e condivisa della pratica.
 
-### Discussione in coppia (3 min) → plenary (2 min).
+Il sūtra si apre con una cornice narrativa essenziale ma densa di significato: il Buddha dimora presso Śrāvastī, nel monastero di Jetavana, e si rivolge ai monaci con una dichiarazione programmatica:
 
-# Esercizio 3 · Mettā per il paziente difficile (8 minuti)
+> “Ānāpānasmṛti, bhikṣavaḥ, bhāvitā bahulīkṛtā mahāphala mahānisaṃsā” (MN 118).
 
-La meditazione mettā (gentilezza amorevole) è ben nota nel contesto clinico. Proponiamo qui una versione contestualizzata nel framework Mahāyāna:
+Possiamo tradurre: «Monaci, la consapevolezza del respiro, quando è sviluppata e coltivata, è di grande frutto e di grande beneficio» [@Bodhi1995].
 
--	[2 min] Pensare a un paziente con cui avete difficoltà — resistenza, antipatia, frustrazione. Non al peggiore, ma a uno che vi crea disagio.
--	[2 min] Riconoscere: anche questa persona vuole essere felice. Anche questa persona soffre. Anche questa persona è il prodotto di cause e condizioni che non ha scelto.
--	[2 min] Formulare in silenzio: 'Che tu possa essere libero dalla sofferenza. Che tu possa trovare pace.'
--	[2 min] Notare: cosa è cambiato nella percezione di questa persona, anche solo leggermente?
+Fin dall’incipit emerge un elemento strutturale decisivo: la pratica non è definita innanzitutto in termini tecnici — come un mero insieme di istruzioni operative — bensì in termini teleologici, cioè in funzione del suo esito. Essa è qualificata come *mahāphala* («di grande frutto») e *mahānisaṃsā* («di grande beneficio»). Il criterio che ne fonda la rilevanza non è la sua semplicità o accessibilità, ma la sua potenza trasformativa.
 
-## Domanda per il debriefing:
-
-"La difficoltà che provate con questo paziente riguarda il paziente, o riguarda la vostra relazione con quella difficoltà?" (Questa è, in sostanza, la domanda che la pratica buddhista pone alla nozione di sé come entità separata.)
+Il discorso precisa immediatamente la natura di tale frutto: la coltivazione piena dell’*ānāpānasmṛti* conduce al compimento dei quattro fondamenti della consapevolezza (*smṛtyupasthāna*), i quali, a loro volta, sostengono lo sviluppo dei sette fattori dell’illuminazione (*bodhyaṅga*), culminando infine nella perfetta conoscenza e nella liberazione (*vimukti*). La direzione è inequivocabile: il respiro costituisce il punto di avvio dell’esercizio contemplativo, ma l’orizzonte ultimo è la libertà incondizionata dalla sofferenza (*duḥkha*).
 
 
+### La struttura in sedici esercizi e quattro tetradi
+
+La pratica dell’*ānāpānasmṛti* è articolata in sedici esercizi, organizzati in quattro tetradi (gruppi di quattro). Questa articolazione non rappresenta un semplice espediente mnemonico funzionale alla trasmissione orale, ma esprime una progressione esperienziale coerente e internamente necessaria. Ciascuna tetrade sviluppa un ambito specifico dell’esperienza — corpo, sensazioni, mente, fenomeni — e al contempo prepara il passaggio alla successiva, secondo un movimento di progressiva interiorizzazione e raffinamento della consapevolezza.
+
+Di seguito riportiamo la traduzione integrale delle quattro tetradi dell’*Ānāpānasmṛti-sūtra* (MN 118), mantenendo la struttura originaria e presentando in forma sintetica la formula relativa sia all’inspirazione sia all’espirazione.
+
+#### Prima tetrade – Il corpo (*kāyānupaśyanā*)
+
+1. **Respiro lungo e respiro breve**
+
+> «Inspirando un respiro lungo, egli conosce: “Inspiro un respiro lungo”;
+> espirando un respiro lungo, egli conosce: “Espiro un respiro lungo”.
+> Inspirando un respiro breve, egli conosce: “Inspiro un respiro breve”;
+> espirando un respiro breve, egli conosce: “Espiro un respiro breve”.»
+
+2. **Sperimentare l’intero corpo**
+
+> «Si addestra così: “Inspirerò sperimentando l’intero corpo”;
+> si addestra così: “Espirerò sperimentando l’intero corpo”.»
+
+3. **Calmare il saṃskāra corporeo (*kāyasaṃskāra*)**
+
+> «Si addestra così: “Inspirerò calmando la formazione corporea”;
+> si addestra così: “Espirerò calmando la formazione corporea”.»
+
+#### Seconda tetrade – Le sensazioni (*vedanānupaśyanā*)
+
+4. **Sperimentare la gioia (*prīti*)**
+
+> «Si addestra così: “Inspirerò sperimentando la gioia”;
+> si addestra così: “Espirerò sperimentando la gioia”.»
+
+5. **Sperimentare il benessere (*sukha*)**
+
+> «Si addestra così: “Inspirerò sperimentando il benessere”;
+> si addestra così: “Espirerò sperimentando il benessere”.»
+
+6. **Sperimentare le formazioni mentali (*cittasaṃskāra*)**
+
+> «Si addestra così: “Inspirerò sperimentando le formazioni mentali”;
+> si addestra così: “Espirerò sperimentando le formazioni mentali”.»
+
+7. **Calmare le formazioni mentali (*cittasaṃskāra*)**
+
+> «Si addestra così: “Inspirerò calmando le formazioni mentali”;
+> si addestra così: “Espirerò calmando le formazioni mentali”.»
+
+
+#### Terza tetrade – La mente (*cittānupaśyanā*)
+
+8. **Sperimentare la mente (*citta*)**
+
+> «Si addestra così: “Inspirerò sperimentando la mente”;
+> si addestra così: “Espirerò sperimentando la mente”.»
+
+9. **Rallegrarla**
+
+> «Si addestra così: “Inspirerò rallegrando la mente”;
+> si addestra così: “Espirerò rallegrando la mente”.»
+
+10. **Concentrarla**
+
+> «Si addestra così: “Inspirerò concentrando la mente”;
+> si addestra così: “Espirerò concentrando la mente”.»
+
+11. **Liberarla (*vimukti*)**
+
+> «Si addestra così: “Inspirerò liberando la mente”;
+> si addestra così: “Espirerò liberando la mente”.»
+
+
+#### Quarta tetrade – I fenomeni (*dharmānupaśyanā*)
+
+12. **Contemplare l’impermanenza (*anitya*)**
+
+> «Si addestra così: “Inspirerò contemplando l’impermanenza”;
+> si addestra così: “Espirerò contemplando l’impermanenza”.»
+
+13. **Contemplare la dispassione (*virāga*)**
+
+> «Si addestra così: “Inspirerò contemplando la dispassione”;
+> si addestra così: “Espirerò contemplando la dispassione”.»
+
+14. **Contemplare la cessazione (*nirodha*)**
+
+> «Si addestra così: “Inspirerò contemplando la cessazione”;
+> si addestra così: “Espirerò contemplando la cessazione”.»
+
+15. **Contemplare il lasciar andare (*pratiniḥsarga*)**
+
+> «Si addestra così: “Inspirerò contemplando il lasciar andare”;
+> si addestra così: “Espirerò contemplando il lasciar andare”.»
+
+Questa articolazione manifesta con chiarezza la logica interna del percorso: dalla consapevolezza del respiro come fenomeno corporeo si procede gradualmente verso la contemplazione delle caratteristiche ultime dell’esperienza — impermanenza, dispassione, cessazione e abbandono — fino alla piena realizzazione della liberazione.
+
+#### La progressione
+
+La sequenza delle tetradi rende evidente il movimento interno della pratica: dalla semplice consapevolezza del respiro come fenomeno corporeo si procede gradualmente verso la contemplazione delle caratteristiche ultime dell’esperienza — impermanenza (*anitya*), dispassione (*virāga*), cessazione (*nirodha*) e abbandono (*pratiniḥsarga*) — fino a culminare nella liberazione (*vimukti*).
+
+Dal punto di vista linguistico emergono due verbi decisivi che segnano il ritmo di questa progressione. Nei primi due passi compare il verbo pāli *pajānāti*, corrispondente al sanscrito *prajānāti*, «conosce», «comprende direttamente». Esso indica una forma di conoscenza immediata e non concettuale: il praticante riconosce semplicemente la qualità fenomenica del respiro lungo o breve, senza intervenire su di esso.
+
+A partire dal terzo passo, il testo introduce invece il verbo pāli *sikkhati*, corrispondente al sanscrito *śikṣate*, «si addestra», «si esercita». Il registro cambia: dalla constatazione diretta si passa a un processo intenzionale di coltivazione. Non si tratta di un controllo forzato, bensì di un orientamento progressivo e consapevole verso dimensioni sempre più sottili dell’esperienza. La pratica assume qui il carattere di una disciplina nel senso etimologico del termine: un apprendimento graduale sostenuto da continuità, applicazione e discernimento.
+
+La suddivisione in tetradi non è casuale. Ciascun gruppo di quattro esercizi corrisponde a uno dei quattro fondamenti della consapevolezza (*smṛtyupasthāna*): la prima tetrade sviluppa la contemplazione del corpo (*kāyānupaśyanā*), la seconda quella delle sensazioni (*vedanānupaśyanā*), la terza quella della mente (*cittānupaśyanā*), e la quarta quella dei fenomeni (*dharmānupaśyanā*). Questa corrispondenza strutturale costituisce il nucleo dell’insegnamento del sūtra e fungerà da filo conduttore per l’analisi delle sezioni successive.
+
+## La prima tetrade: immergersi nel corpo
+
+La prima tetrade costituisce il fondamento propedeutico dell'intero percorso contemplativo. In questa fase iniziale, l'obiettivo non è ancora il conseguimento di stati profondi di assorbimento meditativo (*jhāna*), bensì il consolidamento di una base stabile e saldamente ancorata all'immediatezza dell'esperienza corporea. Il respiro viene qui impiegato come medium privilegiato: fenomeno fisiologico elementare, costantemente accessibile, eppure capace, se opportunamente indagato, di dischiudere una profondità esperienziale inattesa. La sua osservazione continuata getta le fondamenta per lo sviluppo dei successivi stadi del percorso, a partire dalla semplice consapevolezza della sua durata fino alla pacificazione delle attività più grossolane del corpo (*kāyasaṅkhāra*). È a questo livello, quello di un'esperienza pre-concettuale che la pratica innesta il suo primo e decisivo radicamento nel presente.
+
+Il testo dell’*Ānāpānasmṛti-sūtra* (MN 118), nella sua formulazione essenziale, può essere sintetizzato come segue:
+
+1. Inspirando o espirando un respiro lungo, si è consapevoli: «Il mio respiro è lungo».
+2. Inspirando o espirando un respiro breve, si è consapevoli: «Il mio respiro è breve».
+3. Ci si addestra così: «Sperimenterò l’intero corpo (del respiro o fisico), inspirando ed espirando».
+4. Ci si addestra così: «Calmerò la formazione corporea (*kāyasaṃskāra*), inspirando ed espirando».
+
+Esaminiamo ora in che modo questi passaggi possano essere compresi e applicati nella pratica.
+
+### Conoscere il respiro lungo e breve (Passi 1–2)
+
+I primi due esercizi utilizzano il verbo pāli *pajānāti*, corrispondente al sanscrito *prajānāti*, «conosce», «comprende direttamente». Non si tratta di un giudizio concettuale né di un tentativo di manipolazione. Non è «penso che sia lungo», né «cerco di renderlo lungo». È un conoscere immediato e diretto, simile al percepire con la mano la temperatura dell’acqua.
+
+**Nella pratica:** assumi una postura seduta stabile e rilassata. Porta l’attenzione alle sensazioni fisiche del respiro nel punto in cui risultano più evidenti: il flusso dell’aria alle narici, il movimento dell’addome, l’espansione e la contrazione del torace.
+
+Senza intervenire, osserva una qualità semplice: il respiro è lungo o breve? «Lungo» significa semplicemente che si estende per un arco temporale maggiore; «breve» che è più rapido. Non esiste un modello ideale. Con curiosità sobria e non intrusiva, riconosci la durata di ciascun inspirare ed espirare. I respiri varieranno naturalmente. La pratica non consiste nel renderli uniformi, ma nel *conoscere* la loro variabilità.
+
+Anālayo osserva che la particella pāli *vā* («oppure») indica un’alternativa aperta: respiro lungo *o* breve. Non vi è progressione prescrittiva. Si conosce ciò che si presenta. Questa semplice osservazione radica la mente nel presente e introduce implicitamente la consapevolezza dell’impermanenza (*anitya*): nessun respiro è identico al precedente.
+
+### Sperimentare l’intero corpo (Passo 3)
+
+Con il terzo passo il linguaggio cambia. Dal verbo *prajānāti* si passa a *śikṣate* (pāli *sikkhati*), «si addestra», «si esercita». Si entra in una fase più intenzionale della pratica. Il testo invita a «sperimentare l’intero corpo» (*sarvakāya* nella forma sanscrita ricostruita; pāli *sabbakāya*).
+
+**Nella pratica:** dopo aver stabilizzato l’attenzione sulla durata del respiro, amplia gradualmente il campo della consapevolezza. Invece di focalizzarti su un punto singolo, percepisci il respiro come fenomeno che coinvolge l’intero corpo.
+
+Durante l’inspirazione, avverti l’espansione non solo nell’addome ma anche nella schiena, nei fianchi, nelle spalle. Durante l’espirazione, percepisci il rilassamento diffuso. È come se l’intero corpo respirasse. L’attenzione si trasforma: da punto concentrato a campo percettivo integrato.
+
+Un dibattito tradizionale riguarda il significato di *sabbakāya*. I commentari pāli lo interpretano come «corpo del respiro», ossia l’intera durata del singolo atto respiratorio. Tuttavia, i paralleli sanscriti nei Vinaya utilizzano espressioni come *kāyaṃ spharitvā* («pervadendo il corpo»), suggerendo un’estensione dell’attenzione al corpo fisico nel suo insieme. Anālayo propende per una lettura inclusiva: la progressione conduce naturalmente dal respiro percepito localmente a una consapevolezza corporea globale.
+
+### Calmare la formazione corporea (Passo 4)
+
+Il quarto passo conclude la tetrade: «Mi addestrerò a calmare la formazione corporea (*kāyasaṃskāra*)».
+
+Il termine pāli *saṅkhāra*, in sanscrito *saṃskāra*, indica «formazione», «costruzione», «attività condizionata». In questo contesto, il *kāyasaṃskāra* designa primariamente il respiro stesso, in quanto attività corporea fondamentale. Calmarlo significa lasciarlo divenire più sottile, più quieto.
+
+Non si tratta di forzare il ritmo respiratorio. La pacificazione è una conseguenza naturale dei passi precedenti: quando la mente si stabilizza, il respiro si fa più fine.
+
+**Nella pratica:** mantieni la consapevolezza ampia del corpo che respira. Osserva come il movimento si attenua spontaneamente. Il corpo si tranquillizza. Non è torpore, ma quiete vigile. Il respiro può divenire quasi impercettibile, come un’onda leggera ai margini della consapevolezza.
+
+Questa pacificazione non riguarda soltanto il respiro. Può includere il rilassamento delle tensioni muscolari, fino a che il corpo assume una stabilità naturale. La quiete del corpo e quella del respiro si sostengono reciprocamente.
+
+### Riepilogo operativo
+
+La prima tetrade può essere vissuta così:
+
+1. **Passi 1–2:** siediti e osserva il respiro naturale. Riconosci semplicemente se ogni atto è lungo o breve. Non intervenire.
+2. **Passo 3:** espandi l’attenzione all’intero corpo che respira. Percepisci l’unità dinamica del corpo.
+3. **Passo 4:** permetti al respiro e al corpo di calmarsi. Riposa nella quiete che emerge senza sforzo.
+
+Questa prima tetrade è già una pratica completa di stabilizzazione. Essa costituisce la base indispensabile per le successive fioriture della gioia (*prīti*) e del benessere (*sukha*) che caratterizzano la seconda tetrade.
+
+## La seconda tetrade: accogliere la dimensione affettiva
+
+Dopo aver stabilito una base di stabilità e quiete nel corpo, la pratica si orienta naturalmente verso la qualità affettiva dell’esperienza. La seconda tetrade invita a riconoscere e comprendere le tonalità emotive e i fattori mentali che emergono dalla calma precedentemente coltivata.
+
+Nel testo dell’*Ānāpānasmṛti-sūtra* (MN 118), questa tetrade è formulata così:
+
+5. «Mi addestro a sperimentare la gioia (*prīti*), inspirando ed espirando.»
+6. «Mi addestro a sperimentare il benessere (*sukha*), inspirando ed espirando.»
+7. «Mi addestro a sperimentare la formazione mentale (*cittasaṃskāra*), inspirando ed espirando.»
+8. «Mi addestro a calmare la formazione mentale (*cittasaṃskāra*), inspirando ed espirando.»
+
+Se la prima tetrade operava principalmente sul piano corporeo (*kāya*), questa seconda si muove nel dominio delle sensazioni (*vedanā*) e dei processi mentali più sottili. È un passaggio delicato: dalla stabilità si apre la dimensione dell’intensità, dall’equilibrio emerge la qualità affettiva dell’esperienza.
+
+### Gioia (*prīti*) — Il risveglio dell’energia interiore (Passo 5)
+
+Il termine pāli *pīti* trova il suo equivalente sanscrito in *prīti*, spesso tradotto come «gioia», «rapimento» o «entusiasmo». Non si tratta di un’emozione legata a un oggetto esterno, ma di una qualità che sorge spontaneamente quando la mente si è raccolta e quietata. È un’energia sottile, una vibrazione vitale che accompagna la concentrazione.
+
+**Nella pratica:** dopo aver consolidato la calma della prima tetrade, può emergere una sensazione di leggerezza o di entusiasmo interiore. Essa può manifestarsi come:
+
+* un brivido piacevole lungo la schiena;
+* una sensazione di levità del corpo;
+* una chiarezza mentale vivace;
+* una gioia senza oggetto determinato.
+
+L’indicazione non è di produrre tale stato, ma di riconoscerlo quando sorge. Lo si osserva come fenomeno condizionato, senza appropriazione. Anālayo sottolinea che *prīti* è caratteristica dei primi stati di assorbimento meditativo (*dhyāna*), ma può manifestarsi anche in forme più lievi, come un tono gioioso che permea l’esperienza.
+
+### Benessere (*sukha*) — La quiete soddisfatta (Passo 6)
+
+Se *prīti* ha un carattere energico, *sukha* è più stabile e silenzioso. È un benessere profondo, una contentezza serena che segue l’energia iniziale. Nei commentari classici si distingue tra la vivacità di *prīti* e la quieta soddisfazione di *sukha*: la prima è dinamica, la seconda è pacata.
+
+**Nella pratica:** quando l’energia gioiosa si stabilizza, può emergere una sensazione più uniforme di benessere diffuso. Non vi è eccitazione, ma appagamento. Si riconosce questa qualità senza trattenerla, comprendendone la natura condizionata.
+
+### Sperimentare la formazione mentale (*cittasaṃskāra*) — Oltre il piacevole e lo spiacevole (Passo 7)
+
+Il termine pāli *cittasaṅkhāra* corrisponde al sanscrito *cittasaṃskāra*, «formazione mentale». Esso designa l’insieme dei processi mentali costitutivi dell’esperienza, tradizionalmente identificati con percezione (*saṃjñā*) e sensazione (*vedanā*).
+
+Dopo aver riconosciuto specificamente *prīti* e *sukha*, la consapevolezza si amplia per includere l’intero spettro dei processi mentali presenti. Non solo il piacere, ma anche eventuali residui di inquietudine, torpore o neutralità.
+
+**Nella pratica:** l’attenzione si estende oltre le qualità piacevoli per includere tutto ciò che appare nella mente. Si osserva il campo mentale nella sua interezza, senza selezione né preferenza.
+
+### Calmare la formazione mentale (*cittasaṃskāra*) — Il lasciar placare (Passo 8)
+
+Il passo conclusivo della tetrade invita a pacificare l’intera attività mentale. Come nella prima tetrade si calmava il *kāyasaṃskāra*, qui si lascia quietare il *cittasaṃskāra*. Non si tratta di repressione, ma di non-alimentazione.
+
+Quando la consapevolezza è ampia e non reattiva, le formazioni mentali perdono energia e tendono naturalmente a placarsi.
+
+**Nella pratica:** si continua a respirare consapevolmente, mantenendo un’attenzione ricettiva. Se sorge gioia, la si lascia essere; se sorge disagio, lo si lascia essere. Non si costruiscono narrazioni, non si rinforzano le reazioni. Ogni formazione mentale è vista come processo che sorge e svanisce.
+
+Anālayo osserva che nei paralleli sanscriti compare talvolta il verbo *utsṛj* («lasciar andare»), che esprime con precisione l’atteggiamento richiesto: un abbandono anche delle esperienze piacevoli, in vista di stati più profondi.
+
+### Riepilogo per la pratica
+
+La seconda tetrade può essere vissuta così:
+
+1. **Passo 5:** riconosci l’eventuale emergere di *prīti*.
+2. **Passo 6:** osserva la trasformazione in *sukha*, benessere quieto.
+3. **Passo 7:** estendi la consapevolezza a tutto il campo mentale (*cittasaṃskāra*).
+4. **Passo 8:** permetti a tali processi di calmarsi spontaneamente.
+
+Questa tetrade mostra che la meditazione non consiste nell’evitare la dimensione affettiva, ma nel comprenderla fino a trascenderla. La gioia e il benessere sono accolti, ma non trattenuti. La pace che emerge non dipende dalle oscillazioni del piacere e del dolore, bensì dalla visione chiara della loro natura condizionata.
+
+## La terza tetrade: conoscere e liberare la mente
+
+Dopo aver pacificato il corpo nella prima tetrade e aver lasciato emergere e placare le formazioni affettive nella seconda, la pratica compie una svolta decisiva. La terza tetrade sposta l’attenzione dal contenuto dell’esperienza — sensazioni fisiche, gioia, disagio — alla struttura stessa del conoscere. Non si osservano più semplicemente gli oggetti dell’esperienza, ma la mente (*citta*) che li conosce.
+
+Il testo dell’*Ānāpānasmṛti-sūtra* (MN 118) formula questa sequenza così:
+
+9. «Mi addestro a sperimentare la mente (*citta*), inspirando ed espirando.»
+10. «Mi addestro a rallegrarla, inspirando ed espirando.»
+11. «Mi addestro a concentrarla (*samādadhāmi cittaṃ*), inspirando ed espirando.»
+12. «Mi addestro a liberarla (*vimocayāmi cittaṃ*), inspirando ed espirando.»
+
+Questa tetrade richiede una certa maturità meditativa. Se l’osservazione del respiro o della gioia è relativamente accessibile, rivolgere l’attenzione alla mente stessa implica un movimento più sottile: la consapevolezza si volge su sé stessa.
+
+### Sperimentare la mente (*cittānubhava*) — Il conoscere si riconosce (Passo 9)
+
+Il termine *citta* non indica semplicemente il pensiero discorsivo, ma l’intera dinamica della coscienza. Qui non si tratta di osservare contenuti mentali, bensì di riconoscere la mente in quanto tale.
+
+Dopo aver osservato sensazioni, emozioni e processi mentali, la pratica invita a cogliere la qualità stessa del conoscere. Non si cerca un nuovo oggetto: si riconosce la presenza consapevole che già sostiene ogni esperienza.
+
+**Nella pratica:** quando la mente è calma e raccolta, si può compiere un movimento introspettivo delicato. Invece di osservare il respiro, si riconosce la consapevolezza che lo osserva. Non è un atto analitico, ma un riconoscimento diretto: «questo è il conoscere».
+
+Anālayo osserva che tale passaggio è reso possibile dalla precedente pacificazione dei *cittasaṃskāra*. Quando l’attività mentale si attenua, la mente diviene più trasparente a sé stessa.
+
+### Rallegrarla — La fiducia nella consapevolezza (Passo 10)
+
+Il passo successivo invita a «rallegrare la mente». Questa indicazione può apparire paradossale, ma esprime una dinamica sottile: il contatto diretto con la consapevolezza pura è intrinsecamente appagante.
+
+Non si tratta dell’energia di *prīti*, ma di una gioia più sobria e stabile. È il sollievo che nasce dal riconoscere la propria natura fondamentale.
+
+**Nella pratica:** quando si sperimenta questa presenza silenziosa, la si lascia maturare. Non la si afferra, ma la si apprezza. Questo riconoscimento rafforza la fiducia e favorisce una stabilizzazione spontanea.
+
+### Concentrare la mente (*samādadhāti*) — L’unificazione (Passo 11)
+
+Il verbo utilizzato è collegato a *samādhi*, lo stato di raccoglimento unificato. Qui la concentrazione non è forzatura, ma convergenza naturale.
+
+Quando la mente si rallegra nella propria chiarezza, tende spontaneamente all’unificazione. La distinzione tra soggetto e oggetto si attenua.
+
+**Nella pratica:** l’attenzione non è più divisa. La mente riposa in sé stessa. Non vi è sforzo, né dispersione. È uno stato di stabilità profonda, affine agli stadi più sottili del *dhyāna*.
+
+### Liberare la mente (*vimocayati cittaṃ*) — L’abbandono ultimo (Passo 12)
+
+L’ultimo passo della tetrade invita a liberare la mente. Liberarla da cosa? Da ogni residuo di appropriazione, da ogni sottile senso di controllo o identificazione.
+
+Anche la mente raccolta può diventare oggetto di attaccamento. Qui si tratta di lasciar cadere persino tale attaccamento.
+
+**Nella pratica:** quando la mente è calma e unificata, può ancora sussistere un senso sottile di «io sto meditando». Il passo dodicesimo invita a rilasciare anche questa identificazione. Non si sostiene più alcuna costruzione concettuale. La mente dimora libera, senza punto di riferimento.
+
+I paralleli cinesi confermano questa progressione: dal riconoscimento della mente, al suo rallegramento, alla concentrazione, fino alla liberazione. È una sequenza che descrive il progressivo scioglimento dell’identificazione.
+
+### Riepilogo operativo
+
+La terza tetrade può essere riassunta così:
+
+1. **Riconoscere la mente:** dal campo degli oggetti si passa al riconoscimento del conoscere.
+2. **Rallegrarla:** si lascia maturare la gioia silenziosa della presenza consapevole.
+3. **Concentrarla:** la mente si unifica spontaneamente.
+4. **Liberarla:** si abbandona ogni residuo di appropriazione.
+
+Questa tetrade segna il passaggio dalla meditazione come attività intenzionale a una dimensione di presenza pura. La mente, purificata dagli strati più grossolani, può ora conoscersi, stabilizzarsi e liberarsi. È la preparazione necessaria per la visione penetrante della quarta tetrade, nella quale la contemplazione si orienta definitivamente verso la natura ultima dei fenomeni.
+
+## La quarta tetrade: la visione che libera
+
+Con la terza tetrade la mente ha appreso a riconoscersi, a stabilizzarsi e a sciogliere gli attaccamenti più sottili. Su questa base di quiete e raccoglimento, la pratica compie il suo movimento conclusivo: orientarsi verso la natura ultima dei fenomeni. La quarta tetrade non introduce nuovi oggetti di meditazione, ma una nuova modalità di visione. Il respiro, il corpo, le sensazioni e la mente vengono ora contemplati alla luce della loro struttura ontologica fondamentale.
+
+Il testo dell’*Ānāpānasmṛti-sūtra* (MN 118) formula questa sequenza così:
+
+13. «Mi addestro a contemplare l’impermanenza (*anityānupaśyanā*), inspirando ed espirando.»
+14. «Mi addestro a contemplare il disincanto o distacco (*virāgānupaśyanā*), inspirando ed espirando.»
+15. «Mi addestro a contemplare la cessazione (*nirodhānupaśyanā*), inspirando ed espirando.»
+16. «Mi addestro a contemplare l’abbandono (*pratiniḥsargānupaśyanā*), inspirando ed espirando.»
+
+Il suffisso *-anupaśyanā* («contemplazione», «visione ripetuta e sostenuta») indica una percezione penetrante e continuativa. Non si tratta più di osservare fenomeni singoli, ma di vedere attraverso di essi la loro natura universale. L’impermanenza, implicita fin dall’inizio (ogni respiro nasce e cessa), diventa ora oggetto esplicito di contemplazione.
+
+### Contemplare l’impermanenza (*anityānupaśyanā*) — La dinamica del sorgere e cessare (Passo 13)
+
+Il tredicesimo passo invita a volgere l’attenzione deliberatamente alla natura impermanente di ogni aspetto dell’esperienza. Non solo il respiro, ma anche la gioia (*prīti*), il benessere (*sukha*), la mente raccolta e la stessa consapevolezza vengono osservati nel loro continuo sorgere e dissolversi.
+
+**Nella pratica:** restando consapevoli del respiro, si amplia la visione alla natura mutevole di ogni fenomeno. Le sensazioni fisiche emergono, si mantengono per un breve istante, poi cedono. I pensieri appaiono e svaniscono. Anche la qualità della consapevolezza si rinnova momento per momento.
+
+Tutto ciò che è condizionato (*saṃskṛta*) è impermanente (*anitya*). Questa non è un’affermazione dottrinale da accettare, ma una verità da vedere direttamente. La contemplazione dell’impermanenza dissolve progressivamente la percezione illusoria di stabilità.
+
+### Contemplare il disincanto (*virāgānupaśyanā*) — Il declino dell’attaccamento (Passo 14)
+
+Il termine *virāga* indica distacco, disincanto, perdita di attrazione. Quando la visione dell’impermanenza diventa stabile, essa produce un effetto naturale: la mente si disincanta. Se tutto è destinato a mutare, l’appropriazione perde fondamento.
+
+**Nella pratica:** continuando a contemplare l’impermanenza, si osserva come l’attaccamento e l’avversione si attenuino. Le esperienze continuano a sorgere, ma la relazione con esse cambia. Non vi è più la stessa compulsione a trattenere il piacevole o respingere lo spiacevole. Il rapporto con l’esperienza diventa più leggero.
+
+*Virāga* è anche il dissolversi di *rāga* (attaccamento), una delle radici della sofferenza. Il cuore si libera dall’illusione che oggetti condizionati possano offrire felicità permanente.
+
+### Contemplare la cessazione (*nirodhānupaśyanā*) — La quiete del non-sorgere (Passo 15)
+
+Il passo successivo approfondisce ulteriormente la visione. *Nirodha* significa cessazione, estinzione. Non si tratta più solo di osservare il cambiamento, ma di contemplare il momento stesso della cessazione.
+
+**Nella pratica:** si presta attenzione alla fine del respiro, alla pausa che precede il successivo inspirare. Questo momento di sospensione è un microcosmo della cessazione. Ogni fenomeno, quando termina, lascia uno spazio silenzioso. Familiarizzarsi con questo spazio significa riconoscere la dimensione della cessazione non come vuoto minaccioso, ma come quiete.
+
+Anālayo osserva che questa contemplazione prepara la mente alla comprensione della cessazione definitiva dell’attaccamento e, in ultima analisi, del *nirvāṇa*, la realtà non condizionata (*asaṃskṛta*).
+
+### Contemplare l’abbandono (*pratiniḥsargānupaśyanā*) — Il completo lasciar andare (Passo 16)
+
+Il termine *pratiniḥsarga* significa rilascio, rinuncia, abbandono definitivo. Dopo aver visto impermanenza, disincanto e cessazione, il passo conclusivo consiste nel lasciar andare completamente.
+
+**Nella pratica:** si abbandona ogni forma di appropriazione. Non solo gli oggetti, ma anche l’idea di un «io» che pratica. Si lascia andare persino la pratica stessa come progetto. La consapevolezza rimane, ma non vi è più un centro che la possieda.
+
+Questa è la realizzazione esperienziale di *anātman*: nessuna entità sostanziale può essere trovata dietro i processi. La libertà non consiste nell’ottenere qualcosa, ma nel cessare di trattenere.
+
+Le versioni parallele nei Vinaya talvolta presentano una sequenza leggermente diversa — impermanenza, estirpazione, distacco, cessazione — ma convergono tutte verso l’abbandono definitivo di ogni forma di presa.
+
+### Riepilogo operativo
+
+La quarta tetrade può essere riassunta così:
+
+1. **Contemplare l’impermanenza:** vedere il continuo sorgere e cessare di ogni fenomeno.
+2. **Contemplare il disincanto:** osservare l’indebolirsi dell’attaccamento.
+3. **Contemplare la cessazione:** riconoscere il momento del dissolversi.
+4. **Contemplare l’abbandono:** lasciare andare ogni appropriazione.
+
+La quarta tetrade conduce dal relativo all’assoluto, dal condizionato al non-condizionato. La meditazione del respiro, iniziata con la semplice consapevolezza dell’inspirare e dell’espirare, si compie così nella realizzazione della liberazione.
+
+Come afferma il sūtra stesso, la coltivazione integrale di questi sedici esercizi conduce al compimento dei quattro *smṛtyupasthāna*, i quali portano a maturazione i sette *bodhyaṅga*, culminando nella perfetta conoscenza e nella *vimukti*. Il respiro, da fenomeno corporeo ordinario, si rivela dunque una via completa e autosufficiente verso la libertà suprema.
+
+## Ānāpānasmṛti e Smṛtyupasthāna: integrazione sistemica
+
+Una delle affermazioni più significative dell’*Ānāpānasmṛti-sūtra* è che la meditazione del respiro, quando pienamente sviluppata attraverso i suoi sedici esercizi, non costituisce una pratica preliminare isolata, bensì conduce al compimento dei quattro fondamenti della consapevolezza (*smṛtyupasthāna*). Il testo dichiara esplicitamente:
+
+> «Ānāpānasmṛti, bhikṣavaḥ, bhāvitā bahulīkṛtā catvāri smṛtyupasthānāni paripūrayati»
+> «Monaci, la consapevolezza del respiro, quando è sviluppata e coltivata, porta a compimento i quattro fondamenti della consapevolezza» (MN 118).
+
+Questa affermazione stabilisce una relazione strutturale tra due insegnamenti centrali della tradizione: il respiro non è un oggetto tra molti, ma una via integrale che, se percorsa fino in fondo, realizza l’intero edificio dei *smṛtyupasthāna*.
+
+### I quattro fondamenti della consapevolezza (*smṛtyupasthāna*)
+
+Il cosiddetto *Smṛtyupasthāna-sūtra* (MN 10 nella redazione pāli; paralleli nel *Madhyama-āgama*) presenta quattro ambiti fondamentali nei quali la consapevolezza deve essere stabilita:
+
+1. **Il corpo (*kāya*)** — comprendente il respiro, le posture, le attività quotidiane, l’analisi delle parti corporee, gli elementi (*mahābhūta*) e la contemplazione della decomposizione.
+2. **Le sensazioni (*vedanā*)** — classificate come piacevoli, spiacevoli e neutre; mondane e sovramondane.
+3. **La mente (*citta*)** — gli stati mentali nelle loro condizioni variabili: con attaccamento o senza, con avversione o senza, concentrata o dispersa, liberata o non liberata.
+4. **I fenomeni (*dharmāḥ*)** — comprendenti gli ostacoli (*nīvaraṇa*), gli aggregati (*skandha*), le basi sensoriali (*āyatana*), i fattori dell’illuminazione (*bodhyaṅga*) e le Quattro Nobili Verità (*catvāri āryasatyāni*).
+
+Questi quattro domini non rappresentano compartimenti separati, ma dimensioni interrelate dell’esperienza. La contemplazione sistematica di tali ambiti consente di cogliere la struttura dinamica dei fenomeni e di riconoscere in essi le tre caratteristiche universali: impermanenza (*anitya*), insoddisfazione (*duḥkha*) e non-sé (*anātman*).
+
+L’*ānāpānasmṛti*, sviluppata attraverso le sue quattro tetradi, attraversa progressivamente ciascuno di questi ambiti: dal corpo alle sensazioni, dalle sensazioni alla mente, dalla mente alla contemplazione dei fenomeni nella loro natura ultima. In questo senso, il respiro funge da asse integratore: non è un oggetto parziale, ma un principio organizzatore dell’intera esperienza contemplativa.
+
+### La corrispondenza strutturale
+
+L’*Ānāpānasmṛti-sūtra* mostra con chiarezza come un’unica pratica — la consapevolezza del respiro — possa dispiegarsi progressivamente attraverso i quattro fondamenti della consapevolezza (*smṛtyupasthāna*). La corrispondenza tra le quattro tetradi e i quattro fondamenti non è accidentale, ma strutturale.
+
+| Tetrade | Oggetto primario                                                                                    | Smṛtyupasthāna corrispondente                       |
+| ------- | --------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| I       | Corpo e respiro                                                                                     | Contemplazione del corpo (*kāyānupaśyanā*)          |
+| II      | Gioia (*prīti*), benessere (*sukha*), formazioni mentali (*cittasaṃskāra*)                          | Contemplazione delle sensazioni (*vedanānupaśyanā*) |
+| III     | Mente (*citta*)                                                                                     | Contemplazione della mente (*cittānupaśyanā*)       |
+| IV      | Impermanenza (*anitya*), disincanto (*virāga*), cessazione (*nirodha*), abbandono (*pratiniḥsarga*) | Contemplazione dei fenomeni (*dharmānupaśyanā*)     |
+
+Questa corrispondenza non è una costruzione retrospettiva né una sovrapposizione puramente dottrinale. Essa riflette la dinamica stessa dell’esperienza meditativa. Quando la consapevolezza si approfondisce in modo continuo e non frammentato, essa attraversa naturalmente questi quattro ambiti: dal livello corporeo a quello affettivo, da quello mentale alla visione della struttura ontologica dei fenomeni.
+
+Il respiro non è quindi un oggetto limitato a una fase iniziale del percorso, ma un principio di continuità che sostiene l’intero sviluppo contemplativo.
+
+### Dalla parte al tutto: il respiro come porta d’accesso
+
+Nel *Smṛtyupasthāna-sūtra* (MN 10 nella redazione pāli), il respiro è presentato come il primo esercizio della contemplazione del corpo. Il testo ricorre a una similitudine significativa:
+
+> «Come un abile tornitore o un suo apprendista, quando compie una tornitura lunga, sa: “Compio una tornitura lunga”; quando compie una tornitura breve, sa: “Compio una tornitura breve”.»
+
+Questa immagine sottolinea la precisione e la chiarezza del conoscere. Il respiro diventa paradigma di una consapevolezza vigile, accurata e non distratta.
+
+Nel contesto del *Smṛtyupasthāna-sūtra*, tuttavia, il respiro rappresenta solo uno dei molteplici modi di contemplare il corpo: accanto ad esso compaiono le posture, le attività quotidiane, l’analisi anatomica, la contemplazione degli elementi e la riflessione sulla decomposizione.
+
+L’*Ānāpānasmṛti-sūtra* compie un passo ulteriore. Esso mostra che il respiro, se seguito attraverso le sue trasformazioni via via più sottili, conduce spontaneamente oltre la dimensione corporea. Il medesimo oggetto — il respiro — diviene progressivamente veicolo di accesso alle sensazioni, agli stati mentali e, infine, alla contemplazione dei *dharmāḥ* nella loro natura impermanente.
+
+Come osserva Bhikkhu Anālayo, il fatto che il punto di partenza sia un fenomeno corporeo non implica che la pratica resti confinata al corpo. Al contrario, la continuità dell’attenzione trasforma il respiro in un asse integrativo. Coltivata senza interruzione, la consapevolezza del respiro diviene il filo conduttore che permette di attraversare l’intero campo dell’esperienza.
+
+In questo senso, il respiro funziona come microcosmo: partendo da un fenomeno elementare, sempre presente e universalmente accessibile, la pratica conduce alla comprensione della struttura complessiva dell’esperienza condizionata. Il particolare apre al totale; la parte dischiude l’intero.
+
+### Implicazioni pratiche dell’integrazione
+
+L’integrazione strutturale tra *ānāpānasmṛti* e *smṛtyupasthāna* comporta conseguenze rilevanti sul piano della pratica.
+
+**1. Unità dell’esperienza meditativa.**
+I quattro *smṛtyupasthāna* non devono essere intesi come tecniche autonome da applicare in successione, ma come dimensioni interconnesse e co-presenti dell’esperienza. La consapevolezza del respiro fornisce un asse di continuità che consente di attraversare tali dimensioni senza frammentazioni. Corpo, sensazioni, mente e fenomeni non sono ambiti separati, ma prospettive differenti su un unico flusso esperienziale.
+
+**2. Il corpo come fondamento stabile.**
+Il respiro, in quanto fenomeno corporeo immediatamente accessibile, offre una base concreta e affidabile. Partendo da questo punto di ancoraggio, la consapevolezza può progressivamente estendersi a livelli più sottili: alle tonalità affettive (*vedanā*), agli stati mentali (*citta*), fino alla contemplazione dei *dharmāḥ* nella loro struttura condizionata. In ogni fase, il respiro rimane punto di riferimento e garanzia di radicamento.
+
+**3. Continuità e profondità del percorso.**
+La pratica non richiede un passaggio discontinuo da una tecnica a un’altra. Il meditante può approfondire un’unica via, fiducioso che essa racchiuda l’intero itinerario. Come osserva Anālayo, ciò che appare inizialmente come un singolo aspetto corporeo — il respiro — può diventare la base per transitare dalla contemplazione del corpo a quella delle sensazioni, degli stati mentali e dei *dharmāḥ*. L’approfondimento sostituisce la moltiplicazione delle tecniche.
+
+**4. Flessibilità dell’attenzione.**
+Questa integrazione suggerisce una concezione non rigida della meditazione. L’attenzione non è fissata in modo statico su un unico oggetto, ma si espande o si concentra in relazione alla maturazione dell’esperienza. Il respiro funge da centro gravitazionale: l’attenzione può allargarsi al campo mentale o alla contemplazione dell’impermanenza, ma conserva sempre la possibilità di ritornare all’ancora primaria.
+
+### L’Ānāpānasmṛti come microcosmo del percorso
+
+Se il *Smṛtyupasthāna-sūtra* offre una mappa articolata dei quattro ambiti della consapevolezza, l’*Ānāpānasmṛti-sūtra* fornisce il veicolo concreto per attraversarli. Il respiro diviene così un microcosmo che riflette l’intero macrocosmo del cammino contemplativo.
+
+Nel primo *smṛtyupasthāna* (corpo), il respiro è osservato come fenomeno fisico: nella sua durata, nel suo ritmo, nella sua relazione con l’intero organismo.
+Nel secondo (sensazioni), emergono le qualità affettive — *prīti* e *sukha* — come modalità dell’esperienza.
+Nel terzo (mente), la consapevolezza si volge alla conoscenza della mente stessa, alla sua unificazione e liberazione.
+Nel quarto (fenomeni), la visione si apre alla natura universale dei *dharmāḥ*: impermanenza (*anitya*), disincanto (*virāga*), cessazione (*nirodha*), abbandono (*pratiniḥsarga*).
+
+Questa progressione non deve essere intesa in senso rigidamente lineare. Essa è piuttosto circolare e ricorsiva: ogni stadio contiene implicitamente gli altri. La consapevolezza del respiro permane come sfondo costante, come filo orientativo che permette di attraversare l’intero campo dell’esperienza senza smarrimento.
+
+Alla conclusione del percorso, il respiro è ancora presente — semplice, naturale, ordinario. Ciò che è mutato è la visione: ciò che respira e ciò che viene osservato non appaiono più come entità sostanziali, ma come processi condizionati, impermanenti e privi di sé (*anātman*). Il microcosmo del respiro si rivela così porta d’accesso alla comprensione della totalità.
+
+### Oltre la tecnica: la completezza dell’Ānāpānasmṛti
+
+Comprendere l’*ānāpānasmṛti* come microcosmo dell’intero percorso contemplativo consente di superare una concezione riduttiva e meramente tecnica della meditazione. Il respiro non è soltanto un oggetto funzionale all’addestramento dell’attenzione; esso costituisce una soglia attraverso cui si accede alla totalità dell’esperienza. Nel respiro si incontrano il corpo (*kāya*), le tonalità affettive (*vedanā*), le dinamiche della mente (*citta*) e, infine, la natura dei fenomeni (*dharmāḥ*) nella loro struttura impermanente.
+
+Questa visione integrata protegge anche da un possibile fraintendimento: quello di interpretare i quattro *smṛtyupasthāna* come esercizi distinti da eseguire in sequenza rigida. L’*Ānāpānasmṛti-sūtra* mostra che la consapevolezza è unitaria; i suoi quattro fondamenti non sono compartimenti separati, ma prospettive diverse su un unico processo di risveglio.
+
+Anālayo osserva che la coltivazione della consapevolezza comporta un progressivo ampliamento della prospettiva. L’attenzione, inizialmente ancorata al respiro, si espande gradualmente al corpo nella sua interezza; da lì si apre alle sensazioni, quindi agli stati mentali, fino a includere la contemplazione della natura condizionata di tutti i fenomeni. Questo movimento non è un salto discontinuo, ma un approfondimento continuo.
+
+Dal respiro al corpo, dal corpo alle sensazioni, dalle sensazioni alla mente, dalla mente alla struttura dei *dharmāḥ*: tale ampliamento costituisce il nucleo dinamico del percorso contemplativo. Il respiro, fenomeno elementare e costantemente presente, funge da veicolo stabile per questo attraversamento. La sua semplicità è precisamente ciò che ne garantisce la potenza: nella sua ripetizione ordinaria si dischiude l’accesso alla visione più radicale.
+
+In tal modo, l’*ānāpānasmṛti* non appare più come una tecnica tra le altre, ma come una via integrale, capace di condurre dalla stabilizzazione dell’attenzione alla comprensione penetrante della realtà.
+
+## Dimensione soteriologica: dalla quiete alla liberazione
+
+Qual è il fine ultimo dell’*ānāpānasmṛti*? Per rispondere a questa domanda occorre prendere distanza da una sensibilità contemporanea che tende a interpretare la meditazione come strumento di benessere psicologico, riduzione dello stress o miglioramento della qualità della vita. Pur essendo effetti secondari possibili e talvolta significativi, essi non costituiscono la ragion d’essere della meditazione del respiro nel Buddhismo delle origini.
+
+Il fine è la liberazione (*vimukti*): la cessazione del *duḥkha*, ossia di quella insoddisfazione radicale che caratterizza l’esistenza condizionata (*saṃsāra*). Come afferma il Buddha all’inizio del *Smṛtyupasthāna-sūtra*, questa pratica è «l’unica via per la purificazione degli esseri, per il superamento del dolore e del lamento, per la scomparsa della sofferenza e dell’angoscia, per l’accesso al retto cammino e per la realizzazione del *nirvāṇa*» (MN 10).
+
+### Il respiro come rivelatore dell’impermanenza (*anitya*)
+
+La scelta del respiro come oggetto primario di meditazione non è casuale. Il respiro è il fenomeno condizionato per eccellenza: sorge in dipendenza dal corpo e dalle condizioni ambientali, permane per un breve istante e inevitabilmente cessa. Ogni inspirazione è una nascita, ogni espirazione una morte; ogni pausa tra i due è un’anticipazione della cessazione.
+
+Fin dalla prima tetrade, l’attenzione alla durata del respiro — lungo o breve — introduce una consapevolezza differenziale che prepara alla visione dell’impermanenza. Non vi è un respiro identico al precedente. Il flusso continuo degli atti respiratori, osservato con stabilità, rivela la natura momentanea di ogni esperienza.
+
+Nella quarta tetrade questa verità diventa esplicita: si contempla direttamente l’impermanenza (*anityānupaśyanā*). Ciò che era implicito nel movimento del respiro diventa oggetto esplicito di visione. Non solo il respiro, ma anche le sensazioni, le emozioni, gli stati mentali e la stessa consapevolezza vengono riconosciuti come processi di continuo sorgere e cessare.
+
+### Il respiro come rivelatore della sofferenza (*duḥkha*)
+
+Dalla contemplazione dell’impermanenza emerge naturalmente la seconda caratteristica: *duḥkha*. Se tutto è impermanente, nulla può costituire fondamento stabile di soddisfazione definitiva. Anche le esperienze più raffinate della meditazione — la gioia (*prīti*), il benessere (*sukha*), la quiete profonda — sono soggette a cessazione.
+
+Non si tratta di una visione pessimistica, ma di un’analisi realistica della condizione umana. La sofferenza non deriva dall’impermanenza in sé, bensì dall’aspettativa che ciò che è transitorio possa offrire stabilità.
+
+La meditazione del respiro rende visibile questo meccanismo in modo diretto. Quando ci si attacca a un’esperienza piacevole — un respiro particolarmente profondo, uno stato di concentrazione stabile — e tale esperienza inevitabilmente svanisce, si può osservare la nascita di *duḥkha* in tempo reale. Allo stesso modo, quando si lascia andare l’attaccamento, si osserva la sua cessazione.
+
+### Il respiro come rivelatore del non-sé (*anātman*)
+
+La terza caratteristica, *anātman*, è forse la più radicale. Chi è che respira? Esiste un «io» sostanziale che controlla il respiro, o il respiro è semplicemente un processo che si manifesta in dipendenza da cause e condizioni?
+
+Nella pratica questa domanda non resta teorica. Con l’approfondirsi dell’osservazione, diventa evidente che non vi è un «respiratore» separato dal respirare. C’è soltanto il processo. Analogamente, non vi è un «pensatore» separato dal pensare, né un «senziente» separato dal sentire.
+
+La terza tetrade approfondisce questa intuizione. Quando la mente viene riconosciuta e liberata, diventa chiaro che anche la consapevolezza stessa è un processo condizionato, non un’entità permanente. Il testimone viene visto nella sua natura impermanente e impersonale.
+
+### Oltre le tre caratteristiche: la liberazione
+
+Le tre caratteristiche — *anitya*, *duḥkha*, *anātman* — non costituiscono il fine ultimo, ma strumenti di visione. Applicate con continuità, conducono a quel salutare senso di urgenza e disincanto (*saṃvega*) che orienta la mente verso l’incondizionato (*asaṃskṛta*).
+
+La quarta tetrade descrive questo movimento: dalla contemplazione dell’impermanenza al distacco (*virāga*), dalla cessazione (*nirodha*) all’abbandono totale (*pratiniḥsarga*). Non si tratta di acquisire uno stato speciale, ma di lasciar cadere ogni stato. Come una zattera abbandonata dopo aver attraversato il fiume, così anche la pratica stessa viene infine lasciata andare.
+
+### Meditazione e dottrina: un’unità inscindibile
+
+Come osserva Rupert Gethin, «la meditazione nel Buddhismo antico è inseparabile dalla dottrina» [@Gethin1998]. Non vi è pratica autentica senza comprensione, né comprensione autentica senza pratica.
+
+Le tre caratteristiche non sono dogmi, ma descrizioni della realtà verificabili mediante l’esperienza contemplativa. La meditazione non è tecnica neutra, ma mezzo per realizzare direttamente ciò che l’insegnamento articola concettualmente.
+
+L’*Ānāpānasmṛti-sūtra* incarna questa unità. I suoi sedici esercizi non sono istruzioni isolate, ma un percorso che integra progressivamente comprensione e esperienza. Si parte dal respiro — fenomeno semplice e accessibile — e si giunge alla realizzazione delle verità fondamentali dell’insegnamento.
+
+### La liberazione come salute definitiva
+
+Se si volesse impiegare una metafora medica — ricorrente nei testi antichi, dove il Buddha è talvolta descritto come il medico supremo — si potrebbe dire che la liberazione è la salute definitiva. Non perché elimini ogni evento doloroso, ma perché estirpa la radice dell’ignoranza che genera l’attaccamento.
+
+Questa salute non è uno stato tra gli stati, ma la fine della necessità di ogni stato. È ciò che il Canone designa come l’incondizionato (*asaṃskṛta*), la dimora di pace, l’isola che nessun flusso può sommergere.
+
+E l’intero percorso — dall’ignoranza alla liberazione — può iniziare con un gesto semplice: prestare attenzione al respiro. Questa è l’economia straordinaria del sentiero buddhista: la via verso l’illimitato inizia nel più ordinario dei fenomeni, sempre presente, sempre disponibile, immediatamente qui.
+
+## Confronto con la mindfulness contemporanea
+
+Negli ultimi decenni la pratica della mindfulness è emersa dal suo contesto originario per entrare nel panorama della psicologia clinica, della medicina e della cultura occidentale. Programmi come il MBSR (Mindfulness-Based Stress Reduction) e il MBCT (Mindfulness-Based Cognitive Therapy) hanno reso accessibili pratiche meditative a milioni di persone, mostrando efficacia nella riduzione dello stress, dell’ansia e della depressione. Tale sviluppo rappresenta, sotto molti aspetti, un fenomeno notevole e meritevole di considerazione positiva.
+
+Tuttavia, un confronto rigoroso tra la mindfulness contemporanea e la pratica delineata nell’*Ānāpānasmṛti-sūtra* evidenzia differenze non meramente formali, ma sostanziali. La divergenza fondamentale non riguarda tanto il “come” dell’attenzione, quanto il “perché” e il “verso cosa”: non è tecnica, ma teleologica.
+
+### La decontestualizzazione della pratica
+
+Per ragioni di accessibilità culturale e neutralità religiosa, le pratiche contemporanee di mindfulness hanno spesso isolato l’attenzione consapevole dal suo contesto originario. La definizione proposta da Kabat-Zinn — «prestare attenzione intenzionalmente, nel momento presente e in modo non giudicante» — è divenuta la formulazione di riferimento in ambito clinico.
+
+Pur essendo operativamente efficace, tale definizione rappresenta solo un aspetto della concezione antica di consapevolezza (*smṛti*). Come sottolinea Bhikkhu Anālayo, nel contesto originario la consapevolezza possiede una struttura più articolata. Essa include:
+
+* una funzione protettiva, simile a quella di un “custode delle porte sensoriali”, che previene l’insorgere di stati mentali nocivi;
+* una funzione discriminativa, che riconosce la qualità salutare o non salutare degli stati presenti;
+* una funzione trasformativa, che favorisce l’emergere di qualità come benevolenza (*maitrī*) e saggezza (*prajñā*).
+
+Nella mindfulness contemporanea tali dimensioni risultano spesso attenuate o assenti. La pratica viene presentata come tecnica neutra, separata dalla sua cornice etica e soteriologica.
+
+### L’assenza della dimensione etica
+
+Nel *Smṛtyupasthāna-sūtra*, la consapevolezza è introdotta con una formula che comprende quattro qualità: essere ardenti (*ātāpin*), dotati di chiara comprensione (*saṃprajanya*), consapevoli (*smṛtimān*), e liberi da desiderio e afflizione rispetto al mondo (*vinīya loke abhidhyā-daurmanasyaṃ*).
+
+Già questa formulazione implica una dimensione etica: la consapevolezza non è mera osservazione neutrale, ma osservazione che ha già sciolto certe modalità nocive di relazione con l’esperienza.
+
+Il *Milindapañha* (Milindapañha in pāli, ma testualmente affine a contesti sanscriti) esplicita ulteriormente questa concezione. La consapevolezza è descritta come capacità di riconoscere ciò che è salutare e ciò che non lo è, abbandonando l’uno e coltivando l’altro. Essa è intrinsecamente valutativa, orientata alla trasformazione.
+
+Le definizioni contemporanee, al contrario, enfatizzano l’accettazione non giudicante. Se da un lato ciò favorisce un atteggiamento di apertura, dall’altro può oscurare la dimensione etico-pragmatica originaria.
+
+### La retta visione come fondamento
+
+Nel contesto antico la consapevolezza non è autonoma. Essa costituisce il settimo fattore dell’Āryāṣṭāṅgamārga (Nobile Ottuplice Sentiero) ed è inseparabile dagli altri fattori, in particolare dalla retta visione (*samyag-dṛṣṭi*).
+
+La retta visione consiste nella comprensione delle Quattro Nobili Verità (*catvāri āryasatyāni*): la realtà del *duḥkha*, la sua origine, la sua cessazione e il sentiero che conduce a tale cessazione. Senza questa cornice interpretativa, la consapevolezza rischia di ridursi a strumento di regolazione emotiva.
+
+Nel *Smṛtyupasthāna-sūtra*, la contemplazione dei *dharmāḥ* culmina precisamente nella contemplazione delle Quattro Nobili Verità. La consapevolezza pienamente sviluppata conduce naturalmente a vedere la realtà in questi termini.
+
+La mindfulness contemporanea, avendo reciso tale legame, opera in un orizzonte teleologico differente. I suoi obiettivi — riduzione dei sintomi, miglioramento dell’adattamento, incremento del benessere — sono legittimi, ma appartengono a un paradigma diverso.
+
+### La cessazione come orizzonte
+
+La quarta tetrade dell’*Ānāpānasmṛti-sūtra* culmina nella contemplazione della cessazione (*nirodha*). Non si tratta della sospensione temporanea di un sintomo, ma della cessazione definitiva del *duḥkha* alla radice.
+
+Questa dimensione non trova spazio nelle applicazioni cliniche contemporanee, non per rifiuto esplicito, ma perché tali applicazioni operano entro un paradigma terapeutico il cui fine è la funzionalità psicologica.
+
+La differenza è qualitativa. La mindfulness contemporanea mira a migliorare la condizione dell’individuo all’interno dell’esistenza condizionata. La pratica antica mira a trasformare radicalmente la comprensione di tale esistenza, fino alla realizzazione del non-sé (*anātman*) e dell’incondizionato (*asaṃskṛta*).
+
+### Oltre il benessere: la liberazione
+
+Si potrebbe sintetizzare la differenza affermando che la mindfulness contemporanea mira al benessere, mentre la pratica antica mira alla liberazione (*vimukti*).
+
+Il benessere è uno stato all’interno del ciclo condizionato. La liberazione è l’uscita da quel ciclo.
+
+Nella pratica contemporanea l’attenzione è rivolta a modificare la relazione con pensieri ed emozioni dolorose. Nella pratica antica, l’attenzione è orientata a riconoscere la natura impermanente, insoddisfacente e impersonale di tali processi, indebolendo alla radice l’attaccamento che li alimenta.
+
+Una metafora può chiarire la differenza: la prima cerca di rendere più confortevole l’abitante della casa; la seconda mostra che la casa stessa è in fiamme e che la vera soluzione consiste nell’uscirne.
+
+### Un dialogo possibile
+
+Queste differenze non implicano una svalutazione della mindfulness contemporanea. Essa ha alleviato sofferenze concrete e ha aperto un dialogo fecondo tra tradizione buddhista e scienze moderne.
+
+Tuttavia, è essenziale distinguere i due orizzonti. La mindfulness clinica non è una semplice versione attenuata della pratica antica, ma una sua rielaborazione in un contesto differente, con finalità proprie.
+
+Per chi intenda avvicinarsi alla concezione originaria dell’*ānāpānasmṛti*, è fondamentale comprendere questa distinzione. La meditazione del respiro, così come presentata nel Canone, non è primariamente tecnica di rilassamento né strumento di riduzione dello stress. È una via integrale di trasformazione che conduce alla cessazione del *duḥkha*. Il respiro è il punto di partenza; la meta è ciò che trascende ogni condizionamento.
+## Conclusione
+
+L’*Ānāpānasmṛti-sūtra*, esaminato alla luce dell’analisi testuale e del metodo comparativo proposto da Bhikkhu Anālayo, si rivela per ciò che realmente è: non una semplice tecnica meditativa tra le molte, ma una via completa e autosufficiente che conduce dalla consapevolezza del respiro fino alla liberazione finale (*vimukti*).
+
+### La coerenza del percorso in tetradi
+
+La struttura in quattro tetradi non costituisce un artificio didattico, ma la mappa di un itinerario esperienziale dotato di una logica interna profonda e necessaria.
+
+La **prima tetrade** radica il praticante nel corpo (*kāya*). Attraverso il respiro si apprende a conoscere direttamente l’esperienza fisica, a stabilizzare l’attenzione e a calmare le attività grossolane del *kāyasaṃskāra*. Essa rappresenta il fondamento imprescindibile dell’intero percorso. Come un edificio necessita di fondamenta solide, così la pratica richiede stabilità e quiete corporea.
+
+La **seconda tetrade** introduce alla dimensione affettiva. Dalla calma del corpo emergono spontaneamente qualità piacevoli — *prīti* e *sukha* — che vengono riconosciute e successivamente pacificate. Si impara così a non aggrapparsi nemmeno alle esperienze più sottilmente gratificanti generate dalla meditazione stessa. La consapevolezza si estende dal piano corporeo a quello delle sensazioni (*vedanā*).
+
+La **terza tetrade** segna un movimento introspettivo decisivo: dalla consapevolezza degli oggetti — corpo, sensazioni, emozioni — si passa alla consapevolezza della mente (*citta*). La mente viene riconosciuta, rallegrata, concentrata (*samādhi*) e infine liberata (*vimocayati cittaṃ*). Si tratta del passaggio dall’osservazione dell’esperienza all’auto-riconoscimento del conoscere.
+
+La **quarta tetrade** apre alla visione penetrante. L’impermanenza (*anitya*), finora implicita, diviene oggetto esplicito di contemplazione. Da essa sorgono il disincanto (*virāga*), la contemplazione della cessazione (*nirodha*) e l’abbandono definitivo (*pratiniḥsarga*). Il percorso, iniziato con il semplice riconoscimento del respiro che entra ed esce, giunge così alla soglia dell’incondizionato (*asaṃskṛta*), culminando nel *nirvāṇa*.
+
+Questa progressione — corpo, sensazioni, mente, fenomeni, liberazione — non è rigidamente lineare, ma ricorsiva. Ogni fase contiene e integra la precedente. La consapevolezza del corpo non viene abbandonata quando si passa alle sensazioni; la mente, quando si riconosce, non perde il radicamento corporeo; la contemplazione dell’impermanenza illumina retrospettivamente l’intero percorso.
+
+### Oltre la tecnica: la via integrale
+
+La meditazione del respiro, nel Buddhismo delle origini, non è una tecnica di rilassamento. Non è un metodo per ridurre lo stress o incrementare il benessere psicologico, sebbene tali effetti possano manifestarsi come conseguenze secondarie.
+
+L’*ānāpānasmṛti* è una via integrale di trasformazione. Essa coinvolge il corpo, le emozioni, la mente e la visione della realtà. Non isola l’attenzione dal suo contesto etico e dottrinale, ma la inserisce nel quadro dell’Āryāṣṭāṅgamārga, fondandola sulla retta visione (*samyag-dṛṣṭi*) e orientandola alla cessazione del *duḥkha*.
+
+Come rileva Anālayo nei suoi studi comparativi, questa completezza è confermata dai paralleli cinesi e sanscriti. Pur nelle variazioni terminologiche, l’essenza rimane invariata: la meditazione del respiro è presentata come veicolo per realizzare i quattro *smṛtyupasthāna*, i sette *bodhyaṅga* e infine la *vimukti*.
+
+### Il respiro come microcosmo
+
+L’insegnamento forse più profondo che emerge da questa analisi è che il respiro costituisce un microcosmo dell’intero cammino contemplativo. In ogni singolo atto respiratorio sono già presenti, in forma embrionale, le tappe fondamentali del percorso:
+
+* **l’impermanenza (*anitya*)**, nel sorgere e cessare di ogni respiro;
+* **il disincanto (*virāga*)**, nella necessità di lasciar concludere ogni inspirazione;
+* **la cessazione (*nirodha*)**, nella pausa tra un respiro e l’altro;
+* **l’abbandono (*pratiniḥsarga*)**, nel lasciar andare ogni atto respiratorio senza appropriazione.
+
+Chi impara a vedere queste dinamiche nel respiro, impara a riconoscerle nell’intero flusso dell’esistenza. E chi le vede fino in fondo, si libera.
+
+### Per il praticante moderno
+
+Per chi si avvicina oggi a questa pratica, comprendere la sua completezza originaria è essenziale. Non si tratta di respingere le applicazioni contemporanee della mindfulness, che hanno una loro legittimità e utilità. Si tratta piuttosto di riconoscere che esiste un’altra possibilità: percorrere la via nella sua interezza, usare il respiro non soltanto per migliorare la propria condizione psicologica, ma per penetrare la natura stessa dell’esperienza.
+
+Questa via richiede tempo, impegno e guida competente. I sedici esercizi non si esauriscono in un breve ciclo formativo. E tuttavia sono sempre disponibili, qui e ora, per chiunque voglia prestare attenzione al respiro.
+
+Il respiro è la porta. Oltre quella porta si apre l’intero cammino. E alla fine del cammino si rivela ciò che era sempre stato presente, ma non ancora riconosciuto.
+
+Come afferma il *Dharmapada* (v. 372):
+
+> «Non vi è *dhyāna* per chi è privo di *prajñā*,\
+> né vi è *prajñā* per chi è privo di *dhyāna*.\
+> Colui in cui entrambi dimorano\
+> è prossimo al *nirvāṇa*.»
+
+Il respiro, coltivato con saggezza (*prajñā*), conduce a tale prossimità. Il resto è cammino.
+
+## Bibliografia
