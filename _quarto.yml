@@ -1,0 +1,77 @@
+project:
+  type: book
+  output-dir: _site
+  render:
+    - "**/*.qmd"
+
+book:
+  title: "La meditazione nel buddhismo Mahāyāna"
+  subtitle: "Oltre il rilassamento: saggezza, compassione e trasformazione"
+  author: "Corrado Caudek"
+  date: "last-modified"
+
+  # URL canonico del sito (meglio la root)
+  site-url: "https://ccaudek.github.io/perfezionamento/"
+  repo-url: "https://github.com/ccaudek/perfezionamento/"
+  repo-actions: [edit, issue]   # "issue" spesso utile per feedback
+
+  search: true
+  reader-mode: true
+
+  page-navigation: true         # prev/next in fondo pagina
+  back-to-top-navigation: true  # comodo su pagine lunghe
+
+  page-footer:
+    left: |
+      Materiale didattico a cura di Corrado Caudek
+    right: |
+      Creato con <a href="https://quarto.org/">Quarto</a>
+
+  sidebar:
+    collapse-level: 1
+    pinned: true
+    search: true
+
+  chapters:
+    - index.qmd
+
+    - part: "Introduzione alla pratiche contemplative"
+      chapters:
+        - file: chapters/01_mindfulness_decontestualizzata.qmd
+        - file: chapters/02_contesto_teorico.qmd
+        - file: chapters/03_pratiche_specifiche.qmd
+        - file: chapters/04_implicazioni_professioni_aiuto.qmd
+        - file: chapters/05_pratiche_esperienziali.qmd
+    - part: "Conclusioni"
+      chapters:
+        - file: chapters/06_conclusioni_meditazione_trasformazione.qmd
+
+# Bibliografia/citazioni
+bibliography: "./references.bib"
+csl: "apa.csl"
+link-citations: true
+
+lang: it
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-location: right
+    toc-depth: 2
+    toc-expand: 2          # spesso più leggibile del collapse "false"
+    smooth-scroll: true
+
+    # UX per contenuti tecnico-didattici
+    code-copy: true
+    code-overflow: wrap
+
+    # Migliora anteprime social (richiede immagini se vuoi)
+    # image: "images/social-card.png"
+    # favicon: "favicon.ico"
+
+    # Se hai molte pagine, a volte conviene:
+    # include-in-header:
+    #   - "includes/head.html"
+
+editor: source

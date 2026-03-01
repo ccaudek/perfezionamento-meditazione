@@ -1,0 +1,217 @@
+# Glossario terminologico {.unnumbered}
+
+Questo glossario raccoglie i termini tecnici in pāli (P), sanscrito (S) e tibetano (T) utilizzati nel corso. Per ogni termine sono indicati: traslitterazione, lingua, traduzione comune, e una breve spiegazione contestualizzata.
+
+---
+
+## A
+
+**Anātman** (S) / **Anattā** (P)
+*Letteralmente*: "non-sé"
+*Traduzione comune*: assenza di sé, non-sé
+*Nel corso*: Dottrina fondamentale del buddhismo secondo cui non esiste un sé permanente, unitario e indipendente. Non significa che "non esistiamo", ma che ciò che chiamiamo "io" è un processo dinamico e condizionato, non un'entità fissa. Vedi @sec-anatman.
+
+**Appamāṇa** (P) / **Apramāṇa** (S)
+*Letteralmente*: "senza misura", "illimitato"
+*Nel corso*: Qualifica dei quattro *brahmavihāra* quando vengono coltivati senza restrizioni — estesi a tutti gli esseri senza distinzione. Indica la direzione della pratica: dalla selettività all'inclusività universale.
+
+**Avidyā** (S) / **Avijjā** (P)
+*Letteralmente*: "non-vedere", "ignoranza"
+*Traduzione comune*: ignoranza fondamentale
+*Nel corso*: Non è ignoranza di fatti, ma una distorsione strutturale della percezione che porta a vedere come permanente ciò che è impermanente, come dotato di sé ciò che ne è privo, come fonte di felicità ciò che produce sofferenza. È la radice delle afflizioni mentali.
+
+---
+
+## B
+
+**Bhāvanā** (P/S)
+*Letteralmente*: "far divenire", "coltivare"
+*Traduzione comune*: meditazione, coltivazione
+*Nel corso*: Termine generale per le pratiche contemplative. Sottolinea l'aspetto di sviluppo graduale: non si "fa" meditazione, si "coltiva" una qualità mentale.
+
+**Bodhicitta** (S)
+*Letteralmente*: "mente del risveglio"
+*Nel corso*: L'aspirazione a raggiungere il risveglio completo per il beneficio di tutti gli esseri. Nel Mahāyāna, è la motivazione fondamentale del bodhisattva. Ha due aspetti: aspirazione (desiderare il risveglio) e applicazione (impegnarsi nel percorso).
+
+**Bodhisattva** (S)
+*Letteralmente*: "essere del risveglio"
+*Nel corso*: Nel Mahāyāna, chi ha generato *bodhicitta* e si impegna nel percorso verso il risveglio per il beneficio di tutti. Rappresenta l'ideale di una compassione attiva e universale, non limitata alla propria liberazione.
+
+**Brahmavihāra** (P/S)
+*Letteralmente*: "dimore divine" o "stati sublimi"
+*Traduzione comune*: quattro Incommensurabili
+*Nel corso*: I quattro stati mentali da coltivare: *mettā* (benevolenza), *karuṇā* (compassione), *muditā* (gioia compartecipe), *upekkhā* (equanimità). Chiamati anche *appamāṇa* quando coltivati "senza misura". Vedi @sec-brahmavihara.
+
+---
+
+## D
+
+**Dharma** (S) / **Dhamma** (P)
+*Significati multipli*:
+1. L'insegnamento del Buddha
+2. La legge naturale, l'ordine delle cose
+3. I fenomeni (al plurale: *dharmas*)
+*Nel corso*: Usato principalmente nel primo senso — l'insieme degli insegnamenti e delle pratiche buddhiste.
+
+**Duḥkha** (S) / **Dukkha** (P)
+*Letteralmente*: "difficile da sopportare"
+*Traduzione comune*: sofferenza, insoddisfazione
+*Nel corso*: Termine che indica non solo il dolore evidente, ma anche l'insoddisfazione sottile che pervade l'esistenza condizionata. È la Prima Nobile Verità: la diagnosi buddhista della condizione umana.
+
+---
+
+## K
+
+**Karuṇā** (P/S)
+*Letteralmente*: etimologia discussa, forse legata a "azione" o "tremore" (del cuore di fronte alla sofferenza)
+*Traduzione comune*: compassione
+*Nel corso*: Il desiderio che gli esseri siano liberi dalla sofferenza e dalle sue cause. Distinta da: empatia (sentire con), simpatia (sentire per), pietà (sentire sopra). Nel Mahāyāna, diventa *mahākaruṇā* quando si integra con la saggezza della vacuità.
+
+**Kleśa** (S) / **Kilesa** (P)
+*Letteralmente*: "afflizione", "contaminazione"
+*Traduzione comune*: afflizioni mentali, emozioni disturbanti
+*Nel corso*: Stati mentali che disturbano la pace della mente e causano sofferenza. I tre principali sono: attaccamento (*rāga*), avversione (*dveṣa*), ignoranza (*moha*). La pratica mira alla loro riduzione e cessazione.
+
+---
+
+## L
+
+**Lojong** (T: *blo sbyong*)
+*Letteralmente*: "addestramento della mente"
+*Nel corso*: Tradizione tibetana di pratiche per trasformare la mente, particolarmente attraverso il rovesciamento delle tendenze egoiche. Include il *tonglen* e gli slogan di addestramento mentale. Vedi @sec-tonglen.
+
+---
+
+## M
+
+**Madhyamaka** (S)
+*Letteralmente*: "via di mezzo"
+*Nel corso*: Scuola filosofica fondata da Nāgārjuna, che sviluppa la dottrina della vacuità (*śūnyatā*). "Via di mezzo" tra eternalismo (le cose esistono intrinsecamente) e nichilismo (le cose non esistono affatto). Vedi @sec-nagarjuna.
+
+**Mahākaruṇā** (S)
+*Letteralmente*: "grande compassione"
+*Nel corso*: La compassione pienamente matura del Mahāyāna, caratterizzata da: universalità (estesa a tutti senza eccezione), integrazione con la saggezza (*prajñā*), assenza di reificazione (non c'è un "io" che prova compassione per un "altro" che la riceve).
+
+**Mahāyāna** (S)
+*Letteralmente*: "grande veicolo"
+*Nel corso*: Una delle principali tradizioni buddhiste, sviluppatasi in India nei primi secoli dell'era comune. Enfatizza l'ideale del bodhisattva, la compassione universale e la dottrina della vacuità. Include le tradizioni tibetana, cinese, coreana, giapponese e vietnamita.
+
+**Mettā** (P) / **Maitrī** (S)
+*Letteralmente*: "amicizia", "benevolenza"
+*Traduzione comune*: amorevole gentilezza, benevolenza
+*Nel corso*: Il desiderio che gli esseri siano felici e abbiano le cause della felicità. Primo dei quattro *brahmavihāra*. Distinta da attaccamento affettivo: *mettā* non dipende da reciprocità né da caratteristiche dell'altro.
+
+**Muditā** (P/S)
+*Letteralmente*: "gioia"
+*Traduzione comune*: gioia compartecipe, gioia simpatetica
+*Nel corso*: La capacità di gioire per la felicità e il successo altrui. Terzo dei *brahmavihāra*. Antidoto all'invidia e alla gelosia. Spesso trascurata negli adattamenti contemporanei.
+
+---
+
+## N
+
+**Nāgārjuna**
+*Nel corso*: Filosofo buddhista indiano (II-III sec. d.C.), fondatore della scuola Madhyamaka. La sua opera principale, *Mūlamadhyamakakārikā*, sviluppa sistematicamente la dottrina della vacuità attraverso la critica di ogni posizione metafisica. Vedi @sec-nagarjuna.
+
+---
+
+## P
+
+**Prajñā** (S) / **Paññā** (P)
+*Letteralmente*: "saggezza", "conoscenza superiore"
+*Nel corso*: La comprensione profonda della natura della realtà — in particolare, la realizzazione della vacuità e dell'interdipendenza. Nel Mahāyāna, è inseparabile da *karuṇā*: saggezza senza compassione è arida, compassione senza saggezza è cieca.
+
+**Prapañca** (S) / **Papañca** (P)
+*Letteralmente*: "proliferazione", "espansione"
+*Traduzione comune*: proliferazione concettuale
+*Nel corso*: La tendenza della mente a elaborare, commentare, costruire narrazioni a partire dall'esperienza diretta. Fonte di molta sofferenza inutile. La pratica di *sati* mira a interrompere questa proliferazione.
+
+**Pratītyasamutpāda** (S)
+*Letteralmente*: "sorgere in dipendenza"
+*Traduzione comune*: origine dipendente, coproduzione condizionata
+*Nel corso*: Dottrina fondamentale: tutti i fenomeni sorgono in dipendenza da cause e condizioni, nulla esiste in modo indipendente. Base filosofica sia per la comprensione della sofferenza sia per la comprensione della vacuità.
+
+---
+
+## S
+
+**Śamatha** (S) / **Samatha** (P)
+*Letteralmente*: "calma", "quiete"
+*Traduzione comune*: meditazione di calma
+*Nel corso*: Pratiche che sviluppano stabilità e concentrazione della mente. Complementare a *vipassanā* (visione profonda). Prerequisito per pratiche più avanzate come il *tonglen*.
+
+**Saṃsāra** (S/P)
+*Letteralmente*: "vagare", "flusso continuo"
+*Nel corso*: Il ciclo dell'esistenza condizionata, caratterizzato da nascita, morte e rinascita, e dalla sofferenza che ne deriva. Nel contesto psicologico contemporaneo, può essere inteso come il ciclo delle reazioni automatiche che perpetuano la sofferenza.
+
+**Saṃvṛti** (S)
+*Letteralmente*: "ciò che copre", "convenzione"
+*Nel corso*: La verità convenzionale o relativa — il modo in cui le cose appaiono e funzionano al livello dell'esperienza ordinaria. Complementare a *paramārtha* (verità ultima). Vedi "due verità".
+
+**Sati** (P) / **Smṛti** (S)
+*Letteralmente*: "memoria", "ricordo", "presenza mentale"
+*Traduzione comune*: consapevolezza, mindfulness
+*Nel corso*: La capacità di mantenere l'attenzione sull'esperienza presente con chiarezza e stabilità. Non è semplicemente "essere nel momento" ma una qualità attiva di presenza che previene le reazioni automatiche. Vedi @sec-sati.
+
+**Śūnyatā** (S) / **Suññatā** (P)
+*Letteralmente*: "vuotezza", "vacuità"
+*Nel corso*: Non significa "nulla" ma "assenza di esistenza intrinseca". Tutti i fenomeni sono vuoti di un'essenza propria, indipendente e permanente — esistono solo in relazione e dipendenza. Nel Mahāyāna, la realizzazione di *śūnyatā* è inseparabile dalla compassione.
+
+---
+
+## T
+
+**Tonglen** (T: *gtong len*)
+*Letteralmente*: "dare e prendere"
+*Nel corso*: Pratica tibetana in cui si visualizza di "prendere" la sofferenza altrui (inspirando) e "dare" benessere (espirando). Non è un trasferimento letterale ma un addestramento a invertire le tendenze egoiche della mente. Vedi @sec-tonglen.
+
+---
+
+## U
+
+**Upāya** (S)
+*Letteralmente*: "mezzo", "metodo"
+*Traduzione comune*: mezzo abile, metodo abile
+*Nel corso*: L'adattamento dell'insegnamento alle capacità e ai bisogni dell'interlocutore. Nel Mahāyāna, è una qualità centrale del bodhisattva: la capacità di trovare il modo giusto per aiutare ogni essere. Nel corso, viene usato per interpretare positivamente alcuni adattamenti contemporanei.
+
+**Upekkhā** (P) / **Upekṣā** (S)
+*Letteralmente*: "guardare da vicino", "osservare con equilibrio"
+*Traduzione comune*: equanimità
+*Nel corso*: Il quarto *brahmavihāra*. Equilibrio affettivo che permette di restare presenti senza essere destabilizzati. Non è indifferenza ma stabilità nella cura. Vedi @sec-equanimita.
+
+---
+
+## V
+
+**Vipassanā** (P) / **Vipaśyanā** (S)
+*Letteralmente*: "vedere in modo speciale", "visione profonda"
+*Traduzione comune*: insight, visione penetrativa
+*Nel corso*: Pratiche che sviluppano la comprensione diretta della natura della realtà (impermanenza, sofferenza, non-sé). Complementare a *śamatha* (calma). Nelle tradizioni contemporanee, spesso ridotta a "osservazione non giudicante".
+
+---
+
+## Note sulla pronuncia
+
+- **ā, ī, ū**: vocali lunghe
+- **ṃ/ṅ**: nasale (come "ng" in inglese "song")
+- **ñ**: come "gn" italiano in "gnomo"
+- **c**: come "c" italiana in "cena"
+- **j**: come "g" italiana in "gelo"
+- **ś/ṣ**: come "sc" italiana in "scena"
+- **ṭ, ḍ, ṇ**: consonanti retroflesse (la lingua tocca il palato)
+- **h** dopo consonante: aspirazione leggera
+
+---
+
+## Riferimenti incrociati
+
+| Concetto | Capitoli principali |
+|----------|---------------------|
+| Non-sé (*anātman*) | @sec-anatman, @sec-nagarjuna |
+| Compassione (*karuṇā*) | @sec-what-trained, @sec-how-trained |
+| Vacuità (*śūnyatā*) | @sec-nagarjuna, @sec-non-dualism |
+| Presenza mentale (*sati*) | @sec-sati |
+| Incommensurabili (*brahmavihāra*) | @sec-brahmavihara, @sec-equanimita |
+| Tonglen | @sec-tonglen |
+| Equanimità (*upekkhā*) | @sec-equanimita |
+
